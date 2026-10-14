@@ -97,14 +97,6 @@ Use the syllabus tracker to organize your learning and monitor your progress.
 
 That's it! Your study dashboard is ready.
 
-### Option 2: Use the Live Website
-
-🌐 **Live Demo:**  
-https://ritikoo7.github.io/netwise/
-
-*The live demo link will work after GitHub Pages has been enabled and the website has been successfully published.*
-
----
 
 ## 📂 Project Structure
 
